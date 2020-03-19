@@ -31,7 +31,7 @@ export default {
 
     methods: {
         signup() {
-            
+
         }
     }
 }
@@ -67,5 +67,6 @@ export default {
 
 .Button {
     margin-top: 5%;
+    background-color: #4527a0;
 }
 </style>
